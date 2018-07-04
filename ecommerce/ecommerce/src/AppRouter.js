@@ -1,5 +1,6 @@
-import React from "react"
-import {BrowserRouter as Router, Route} from "react-router dom";
+import React from "react";
+import ReactDOM from 'react-dom';
+import {BrowserRouter as Router, Route} from "react-router-dom";
 import NavTabs from "./components/pages/NavTabs";
 import Home from "./components/pages/Home";
 import Environmental from "./components/pages/Environmental";
